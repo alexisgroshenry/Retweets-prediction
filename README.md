@@ -4,9 +4,9 @@
 
 ## Preprocessing
 
-The preprocessing is in two steps. Firstly, you need to run the "Preprocessing the data" to preprocess almost everything we need.
+The preprocessing is in two steps. Firstly, run "Preprocessing the sentiment". There is a neural network to train based on these [data](https://www.kaggle.com/kazanova/sentiment140 ) to train. You need to download it also. 
 
-Secondly, run "Preprocessing the sentiment". There is a neural network to train based on these [data](lien) to train. You need to download it also. 
+Secondly, you need to run the "Preprocessing the data" to preprocess almost everything we need.
 
 ## Model training
 
