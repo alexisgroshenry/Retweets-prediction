@@ -1,4 +1,3 @@
-=======
 # Retweet prediction
 
 ## Preprocessing
