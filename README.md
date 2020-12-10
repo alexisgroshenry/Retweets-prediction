@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+# Retweet prediction
 
-The first file to run is the sentiment classifier. It requires the data (train and evaluation) and a twitter data set that you can find there https://www.kaggle.com/kazanova/sentiment140. It will write two new files "training_v1.npy" and "evaluation_v1.npy".
-You only need those two files to run the second file : preprocessing.
+## Preprocessing
+
+The preprocessing is in two steps. Firstly, you need to run the "Preprocessing the data" to preprocess almost everything we need.
+
+Secondly, run "Preprocessing the sentiment". There is a neural network to train based on these [data](lien) to train. You need to download it also. 
+
+## Model training
+
+Run the "Training our model". It will create a file in the *results* folder with the submission.
+>>>>>>> a8c02e17a78e93a8940460b9d207bab8c8dee61f
